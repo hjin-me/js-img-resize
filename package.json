@@ -1,0 +1,26 @@
+{
+  "name": "js-img-resize",
+  "version": "0.1.0",
+  "description": "Compress Images with JavaScript in html5-supported browser.",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hjin-me/js-img-resize.git"
+  },
+  "keywords": [
+    "javascript",
+    "browser",
+    "html5",
+    "canvas",
+    "image",
+    "compress",
+    "resize"
+  ],
+  "author": "HJin.me",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hjin-me/js-img-resize/issues"
+  }
+}
