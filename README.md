@@ -10,6 +10,7 @@ Compress Images with JavaScript in html5-supported browser.
 * 旋转图片至正确方向 / adjust orientation.
 * Retina 支持 / High DPI supported.
 * 绕开 iOS Safari bug / fuck iOS Safari
+* 支持 Worker / Use Worker
 
 # 如何使用 / Usage
 
